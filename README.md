@@ -115,6 +115,7 @@ Yes, technically possible. But I cannot recommend using it.
     - [🪄 The Magic Word: `ultrawork`](#-the-magic-word-ultrawork)
     - [For Those Who Want to Read: Meet Sisyphus](#for-those-who-want-to-read-meet-sisyphus)
       - [Just Install It.](#just-install-it)
+  - [Deployment and Usage Guide](#deployment-and-usage-guide)
   - [Installation](#installation)
     - [For Humans](#for-humans)
     - [For LLM Agents](#for-llm-agents)
@@ -233,6 +234,21 @@ Need to look something up? It scours official docs, your entire codebase history
 5. Don't want to dive deep into this project? No problem. Just type 'ultrathink'.
 
 If you don't want all this, as mentioned, you can just pick and choose specific features.
+
+## Deployment and Usage Guide
+
+**📚 [Complete Deployment and Usage Guide](docs/DEPLOYMENT.md)**
+
+Need detailed deployment and usage instructions? We've prepared a comprehensive guide for you, including:
+
+- ✅ System requirements and subscription configuration
+- ✅ Detailed installation steps (supporting multiple subscription combinations)
+- ✅ Complete explanations of both working modes (Ultrawork and Prometheus)
+- ✅ Frequently Asked Questions
+- ✅ Advanced configuration and best practices
+- ✅ Real-world use cases
+
+[Click to view the complete guide →](docs/DEPLOYMENT.md)
 
 ## Installation
 
